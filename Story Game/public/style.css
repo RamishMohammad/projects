@@ -1,0 +1,82 @@
+body { 
+  font-family: 'Gloria Hallelujah', cursive;
+  background-color: #A4543E;
+  background-image: url('imgs/background.png');
+  color: #E0B285;
+}
+
+.site-title { 
+  text-align: center;
+}
+
+.not-found { 
+  text-align: center;
+  font-size: 30px;
+}
+
+.visuals { 
+  display: block;
+  background-color: azure;
+  height: 450px;
+  width: 700px;
+  border: black 5px double;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.boxes { 
+  display: block;
+  text-align: center;
+}
+
+
+.text-box { 
+  display: inline-block;
+  background-color: #594F46;
+  width: 700px;
+  height: 150px; 
+  border: black 3px double;
+  padding: 10px;
+  margin: 5px 5px 0 5px;
+}
+
+#choice { 
+  display: inline-block;
+  background-color: #594F46;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #E0B285;
+  width: 350px; 
+  height: 100px; 
+  border: black 3px double;
+  padding: 10px; 
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+#start-button{
+  display: block;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #594F46;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 30px;
+  color: #E0B285;
+  width: 350px; 
+  height: 100px; 
+  border: black 3px double;
+}
+
+#start-button:hover{
+
+  cursor: pointer;
+  color: #594F46;
+  background-color: #E0B285;
+}
+
+
